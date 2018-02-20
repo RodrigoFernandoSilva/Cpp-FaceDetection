@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519068403 source:c:\4.0 myprojects\11.0 c++\webcam\main.cpp
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+
+1519068276 source:c:\4.0 myprojects\11.0 c++\webcam_old\main.cpp
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+
