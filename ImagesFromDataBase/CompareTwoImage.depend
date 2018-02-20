@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1510015632 source:c:\4.0 myprojects\11.0 c++\imagensdobancodedados\main.cpp
+	"opencv2/objdetect.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc.hpp"
+	<vector>
+	<math.h>
+	<fstream>
+	<string>
+	<iostream>
+
+1510933734 source:c:\4.0 myprojects\11.0 c++\imagensdebancodedados\main.cpp
+	"opencv2/objdetect.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc.hpp"
+	<vector>
+	<math.h>
+	<fstream>
+	<string>
+	<iostream>
+
+1519136967 source:c:\4.0 myprojects\cpp\imagensdebancodedados\main.cpp
+	"opencv2/objdetect.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc.hpp"
+	<string>
+	<dirent.h>
+	<fstream>
+	<iostream>
+	<math.h>
+	<vector>
+
+1519136967 source:c:\4.0 myprojects\cpp\cpp-facedetection\imagesfromdatabase\main.cpp
+	"opencv2/objdetect.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc.hpp"
+	<string>
+	<dirent.h>
+	<fstream>
+	<iostream>
+	<math.h>
+	<vector>
+
