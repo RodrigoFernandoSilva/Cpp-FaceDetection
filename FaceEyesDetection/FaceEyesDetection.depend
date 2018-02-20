@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1509740793 source:c:\4.0 myprojects\11.0 c++\faceeyesdetection\main.cpp
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<opencv2/objdetect/objdetect.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgcodecs/imgcodecs.hpp>
+	"opencv2/objdetect.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc.hpp"
+	<vector>
+	<math.h>
+	<iostream>
+
+1519131635 source:c:\4.0 myprojects\cpp\cpp-facedetection\faceeyesdetection\main.cpp
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<opencv2/objdetect/objdetect.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgcodecs/imgcodecs.hpp>
+	"opencv2/objdetect.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc.hpp"
+	<vector>
+	<math.h>
+	<iostream>
+
